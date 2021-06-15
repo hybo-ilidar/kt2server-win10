@@ -1,0 +1,22 @@
+tags
+*.lib
+*.dll
+*.o
+*.obj
+*.exe
+*.pdb
+*.log
+*.tlog
+*.unsuccessfulbuild
+*.lastbuildstate
+
+
+bin/**
+build/**
+lib/**
+.vs/*
+*.csv
+## Xcode cruft
+.DS_Store
+project.xcworkspace
+xcuserdata
